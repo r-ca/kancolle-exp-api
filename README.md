@@ -4,7 +4,7 @@
 
 ## インストール
 - `pip3 install -r require.txt` 依存しているパッケージのインストール
-- `uvicorn main:app --host 0.0.0.0` 起動して0.0.0.0をListen
+- `uvicorn main:app --host 0.0.0.0` 起動して0.0.0.0をListen(/app/以下で実行)
 
 ## Endpoints
 - `/exp/kanmusu/`
